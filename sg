@@ -10,8 +10,6 @@ http://210.210.155.35/uq2663/h/h04/02.m3u8
 http://45.126.83.51:443/uq2663/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="Singapore",CNA
 http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Z9LgT0v.jpg" group-title="Singapore",Okto Eight
-https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Singapore",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Singapore",Miao Mi
